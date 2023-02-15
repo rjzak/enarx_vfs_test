@@ -1,0 +1,6 @@
+[package]
+name = "enarx_vfs_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
